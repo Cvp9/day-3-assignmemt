@@ -1,0 +1,45 @@
+.container {
+    border: 5px solid black; 
+    height: 95%; 
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+    align-content: center;
+  }
+
+.items{
+    height: 320px;
+    width: 300px;
+    margin: 10px;
+}
+
+#box1{
+    background: beige
+}
+#box2{
+    background: pink
+}
+#box3{
+    background: violet
+}
+#box4{
+    background: lightseagreen
+}
+#box5{
+    background: darkcyan
+}
+#t1{
+    color: brown;
+}
+#t2{
+    color: darkred;
+}
+#t3{
+    color: purple;
+}
+#t4{
+    color: red;
+}
+#t5{
+    color: lightgreen;
+}
